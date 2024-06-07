@@ -131,6 +131,6 @@ render('todo-mfe-container', { initialTodos: [{ id: '1', task: 'Host Todo', comp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/todo-mfe.git
-   cd todo-mfe
+   git clone https://github.com/pereiradaluzjoaquin/react-todo-mfe.git
+   cd react-todo-mfe
    ```
