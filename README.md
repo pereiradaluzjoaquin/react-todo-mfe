@@ -63,6 +63,7 @@ This project is a React Micro Frontend (MFE) Todo List application. It demonstra
     };
 
 -Update package.json file with the following scripts:
+
 {
 "name": "todo-mfe",
 "version": "1.0.0",
